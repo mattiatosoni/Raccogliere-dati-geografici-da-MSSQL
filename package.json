@@ -1,0 +1,27 @@
+{
+  "name": "raccogliere-dati-geografici-da-mssql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattiatosoni/Raccogliere-dati-geografici-da-MSSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mssql": "^6.2.0",
+    "nodemon": "^2.0.3",
+    "proj4": "^2.6.1",
+    "wellknown": "^0.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mattiatosoni/Raccogliere-dati-geografici-da-MSSQL/issues"
+  },
+  "homepage": "https://github.com/mattiatosoni/Raccogliere-dati-geografici-da-MSSQL#readme"
+}
